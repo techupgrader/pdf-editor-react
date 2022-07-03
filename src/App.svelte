@@ -306,7 +306,9 @@
           <div
             class="relative shadow-lg"
             class:shadow-outline={pIndex === selectedPageIndex}>
-            
+            <PDFPage
+              on:measure={e => onMeasure(e.detail.scale, pIndex)}
+              {page} />
             <div
               class="absolute top-0 left-0 transform origin-top-left"
               style="transform: scale({pagesScale[pIndex]}); touch-action: none;">

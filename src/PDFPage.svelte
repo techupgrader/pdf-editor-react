@@ -32,10 +32,5 @@
 </script>
 
 <div>
-  // <canvas
-  //   bind:this={canvas}
-  //   class="max-w-full"
-  //   style="width: {width}px;"
-  //   {width}
-  //   {height} />
+  
 </div>

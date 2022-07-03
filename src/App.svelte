@@ -263,7 +263,6 @@
       class:bg-blue-700={pages.length === 0 || saving || !pdfFile}>
       {saving ? 'Saving' : 'Save'}
     </button>
-    
   </div>
   {#if addingDrawing}
     <div

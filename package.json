@@ -1,8 +1,7 @@
 {
   "name": "pdf-editor",
   "version": "1.0.0",
-  "author": "ShizukuIchi <shizukuichi@gmail.com>",
-  "homepage": "https://pdf-editor.now.sh",
+  "author": "Oleg <codeclimber55786@gmail.com>",
   "scripts": {
     "build": "rollup -c",
     "dev": "rollup -c -w",

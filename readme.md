@@ -1,8 +1,5 @@
 # PDF Editor
 
-No install. No server. https://pdf-editor.now.sh
-![It just works!](https://i.imgur.com/m3weLXQ.gif)
-
 ## How to use pdf-editor?
 
 1. Click `Choose PDF` to upload a `.pdf` file.
@@ -20,4 +17,4 @@ No install. No server. https://pdf-editor.now.sh
 
 ---
 
-LICENSE MIT © 2020 
+LICENSE MIT © 2022 
